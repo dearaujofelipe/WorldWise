@@ -20,5 +20,6 @@ module.exports = {
     'no-unused-vars': 'warn',
     'react/prop-types': 'off',
     'react/jsx-key': 'warn',
+    'react-refresh/only-export-components': 'off',
   },
 };
